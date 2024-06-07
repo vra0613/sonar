@@ -9,7 +9,7 @@
 
     <properties>
         <sonar.host.url>https://byld-p-cloud-migration-sonarhelm.byld.eks.pvgroup.intranet</sonar.host.url>
-        <sonar.login>squ_dd7fb8e1a48d58ef7a8d057d388ec2c2f930f0db</sonar.login>
+        <sonar.login>squ_5c2d8ebfb5ff71cd192838aaefb9a5e084a1b782</sonar.login>
     </properties>
 
     <build>
