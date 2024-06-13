@@ -14,7 +14,7 @@
     <properties>
         <sonar.projectKey>sonar-test</sonar.projectKey>
         <sonar.host.url>https://byld-p-cloud-migration-sonarhelm.byld.eks.pvgroup.intranet</sonar.host.url>
-        <sonar.login>squ_b08015960d3d12055579a3c04e71a7d7166ff689</sonar.login>
+        <sonar.login>squ_49ec587cf64bc91af7ece85dc7e7f4c8bcd69919</sonar.login>
     </properties>
 
     <build>
