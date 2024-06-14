@@ -16,6 +16,11 @@
         <sonar.host.url>https://byld-p-cloud-migration-sonarhelm.byld.eks.pvgroup.intranet</sonar.host.url>
         <sonar.login>squ_49ec587cf64bc91af7ece85dc7e7f4c8bcd69919</sonar.login>
     </properties>
+<dependency>
+    <groupId>org.sonarsource.sonarqube</groupId>
+    <artifactId>sonar-scanner-engine-shaded</artifactId>
+     <version>10.5.1</version>
+</dependency>     
 
     <build>
         <plugins>
