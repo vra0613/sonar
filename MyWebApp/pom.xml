@@ -14,7 +14,7 @@
     <properties>
         <sonar.projectKey>jenkin-sonar</sonar.projectKey>
         <sonar.host.url>https://byld-p-cloud-migration-sonarhelm.byld.eks.pvgroup.intranet</sonar.host.url>
-        <sonar.login>squ_2beb0797fce249ca593e57137e7ed49937d12558</sonar.login>
+        <sonar.login>squ_452c65daf542f4d98dca21b6c863890b1e649c59</sonar.login>
     </properties>
 <dependency>
     <groupId>org.sonarsource.sonarqube</groupId>
