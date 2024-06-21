@@ -12,9 +12,9 @@
     <version>1.3-SNAPSHOT</version>
 
     <properties>
-        <sonar.projectKey>jenkin-sonar</sonar.projectKey>
+        <sonar.projectKey>jenkins-sonar</sonar.projectKey>
         <sonar.host.url>https://byld-p-cloud-migration-sonarhelm.byld.eks.pvgroup.intranet</sonar.host.url>
-        <sonar.login>squ_452c65daf542f4d98dca21b6c863890b1e649c59</sonar.login>
+        <sonar.login>squ_0ef992ee3ec75534db2d04515ea33e30906c9b9d</sonar.login>
     </properties>
 <dependency>
     <groupId>org.sonarsource.sonarqube</groupId>
